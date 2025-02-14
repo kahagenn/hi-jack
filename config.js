@@ -3,7 +3,7 @@ const CONFIG = {
     valentineName: "jack",
     pageTitle: "will you...be my valentine?",
     floatingEmojis: {
-        hearts: ['💞', '💖', '💝', '💗', '💓'], 
+        hearts: ['💞', '💖', '🦶', '🦶', '🦶'], 
         bears: ['🦶', '🔗']              
     },
 
