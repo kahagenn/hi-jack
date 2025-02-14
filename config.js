@@ -28,15 +28,15 @@ const CONFIG = {
 
 
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "ok fine u win the ily more competition", 
+        high: "no i love you more",   
+        normal: "thats it??" 
     },
 
     celebration: {
         title: "YAY you make me so happy",
         message: "i love you!",
-        emojis: "🦶"  // These will bounce around
+        emojis: "🦶"  
     },
 
     // Color scheme for the website
