@@ -39,20 +39,17 @@ const CONFIG = {
         emojis: "🦶"  
     },
 
-    // Color scheme for the website
-    // Use https://colorhunt.co or https://coolors.co to find beautiful color combinations
+
     colors: {
-        backgroundStart: "#F2F9FF",      // Gradient start (try pastel colors for a soft look)
-        backgroundEnd: "#FFCCE1",        // Gradient end (should complement backgroundStart)
-        buttonBackground: "#8D0B41",     // Button color (should stand out against the background)
-        buttonHover: "#F72C5B",          // Button hover color (slightly lighter than buttonBackground)
-        textColor: "#ff4757"             // Text color (make sure it's readable!)
+        backgroundStart: "#F2F9FF",  
+        backgroundEnd: "#FFCCE1",    
+        buttonBackground: "#8D0B41",  
+        buttonHover: "#F72C5B",      
+        textColor: "#16C47F"    
     },
 
-    // Animation settings
-    // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "9s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "50px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.5s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.5         // Size of heart explosion effect (1.2-2.0 recommended)
