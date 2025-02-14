@@ -1,6 +1,3 @@
-// ============================================
-// 💝 CUSTOMIZE YOUR VALENTINE'S WEBSITE HERE 💝
-// ============================================
 
 const CONFIG = {
     valentineName: "jack",
